@@ -8,6 +8,7 @@
 # 📫 How to reach me: 
 * [LinkedIn](https://www.linkedin.com/in/lil-armstrong/)
 * [Email](mailto:oebong1@gmail.com)
+* [Website](https://lil-armstrong.github.io/portfolio)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lil-armstrong)](https://github.com/lil-armstrong/github-readme-stats)
 
