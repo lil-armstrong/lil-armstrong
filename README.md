@@ -13,6 +13,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lil-armstrong&show_icons=true&theme=radical)
 
+<h2 align="left">Support:</h2>
+<p><a href="https://www.buymeacoffee.com/lilarmstrong"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
 <!--
 **lil-armstrong/lil-armstrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
