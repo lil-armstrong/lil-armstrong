@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=4E61F7FF&width=435&height=45&lines=Welcome+to+my+portfolio;I'm+lil-armstrong;Nice+to+meet+you++%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=64D6F7FF&width=435&height=45&lines=Welcome+to+my+portfolio;I'm+lil-armstrong;Nice+to+meet+you++%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ###  Software Engineer and student
 - #### 🔭 I’m currently a student at ALX.
