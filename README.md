@@ -8,7 +8,7 @@
 # 📫 How to reach me: 
 * [LinkedIn](https://www.linkedin.com/in/lil-armstrong/)
 * [Email](mailto:oebong1@gmail.com)
-![Website](https://lil-armstrong.github.io/portfolio)
+* [Website](https://lil-armstrong.github.io/portfolio)
 
 
 ![lil-armstrong's Stats](https://github-readme-stats.vercel.app/api?username=lil-armstrong&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
